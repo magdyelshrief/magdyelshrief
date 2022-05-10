@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @magdyelshrief
-- 👀 I’m interested in web && backend development and Data Analysis(R,Python,google SpreadSheats)
+- 👀 I’m interested in backend development(C# .NETCore 6.0 , APIs(postman,swagger) and 
+- Data Analysis(RStudio,Python,SaS)
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
